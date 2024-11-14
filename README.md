@@ -2,6 +2,8 @@
 
 A streamlined web application built with Streamlit for viewing and analyzing CSV files with interactive features.
 
+🌐 **Try it live: [st-csv-viewer.streamlit.app](https://st-csv-viewer.streamlit.app/)**
+
 ## Features
 
 - 📤 Drag-and-drop CSV file upload
